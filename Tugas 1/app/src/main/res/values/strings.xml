@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PPB_Resto</string>
+
+    <string name="subtitle_desc_resto">Sedap Rasa adalah tempat yang menawarkan pengalaman kuliner autentik. Dengan dekorasi yang hangat dan layanan ramah, kami menyajikan hidangan berkualitas tinggi dengan cita rasa khas.</string>
+    <string name="list_menu">
+        &#8226; Nasi Goreng Spesial
+        \n&#8226; Soto Ayam
+        \n&#8226; Rendang Daging
+    </string>
+    <string name="alamat">Jl. Imam Bonjol No.207, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang.</string>
+    <string name="time_open">
+        &#8226; Senin - Jumat : 10.00 - 22.00
+        \n&#8226; Sabtu - Minggu : 10.00 - 23.00
+    </string>
+    <string name="resto_name">Rm. Sedap Rasa</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="subtitle_list_menu">List Menu</string>
+    <string name="subtitle_jam_buka">Jam Buka</string>
+    <string name="subtitle_alamat">Alamat</string>
+</resources>
