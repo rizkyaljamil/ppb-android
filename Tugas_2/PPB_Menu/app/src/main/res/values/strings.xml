@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PPB_Menu</string>
+    <string name="message">Pesan</string>
+    <string name="deskripsi_makanan">Deskripsi Makanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_receipt">Struk</string>
+    <string name="back_to_menu">Kembali ke Menu</string>
+    <string name="pemesanan">Pemesanan</string>
+</resources>
